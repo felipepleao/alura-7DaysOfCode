@@ -1,0 +1,44 @@
+.header-wrapper {
+  padding: 1.8rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-header {
+  display: flex;
+  gap: 0 40rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.nav-header a {
+  color: var(--text-grey);
+}
+
+.nav-header a:hover {
+  color: #101828;
+}
+
+.nav-header-pages {
+  display: flex;
+  align-items: center;
+  gap: 0 3.2rem;
+}
+
+.nav-header-login {
+  display: flex;
+  align-items: center;
+  gap: 0 3rem;
+}
+
+.nav-header-login--button {
+  border: 1px solid var(--text-numbers-info);
+  border-radius: 8px;
+  padding: 1rem 1.8rem;
+  background-color: var(--text-numbers-info);
+}
+
+.nav-header-login--button a {
+  color: var(--text-standard);
+}
