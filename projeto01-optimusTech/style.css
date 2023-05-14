@@ -1,11 +1,17 @@
 /* header */
 @import "./styles/navbar.css";
 
-/* introdução */
-@import "./styles/introduction.css";
+/* seções padrão */
+@import "./styles/sections.css";
 
 /* metricas */
 @import "./styles/metrics.css";
+
+/* opportunity */
+@import "./styles/opportunity.css";
+
+/* depositions */
+@import "./styles/depositions.css";
 
 * {
   margin: 0;

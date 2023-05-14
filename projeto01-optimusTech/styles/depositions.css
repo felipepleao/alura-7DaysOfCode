@@ -1,0 +1,24 @@
+.depositions {
+  margin-top: 9.6rem;
+  padding: 6.4rem;
+  text-align: center;
+  background: rgba(196, 25, 25, 0.03);
+}
+
+.depositions-profile {
+  margin-top: 3.2rem;
+}
+
+.depositions-profile h3 {
+  margin: 1.6rem 0 0.4rem;
+  font-size: 1.6rem;
+  color: var(--title-subtitle);
+}
+
+.title-info.depositions-title {
+  font-size: 3.2rem;
+}
+
+.text-info.depositions-text {
+  font-size: 1.4rem;
+}

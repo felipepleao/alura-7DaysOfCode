@@ -1,0 +1,46 @@
+.opportunity img {
+  margin-top: 6.4rem;
+  object-fit: cover;
+  width: 100%;
+}
+
+.description-opportunity {
+  margin: 6.4rem auto 0;
+  max-width: 76.8rem;
+  text-align: start;
+}
+
+.description-opportunity dl {
+  display: grid;
+  gap: 6.4rem 0;
+}
+
+.description-opportunity dl dt {
+  font-size: 2rem;
+  color: var(--title-subtitle);
+}
+
+.description-opportunity-card {
+  margin-top: 3.2rem;
+  border: 1px solid #EAECF0;
+  border-radius: 1.6rem;
+  padding: 2.4rem;
+  display: grid;
+  gap: 3.2rem 0;
+}
+
+.description-opportunity-card + dd{
+  margin-top: 2.4rem;
+}
+
+.description-opportunity-card h3 {
+  font-size: 1.8rem;
+  color: var(--title-subtitle);
+}
+
+.time-salary {
+  display: flex;
+  gap: 0 2.4rem;
+  font-size: 1.6rem;
+  color: var(--text-grey);
+}
