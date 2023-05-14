@@ -33,4 +33,4 @@ Projeto visando a prática de conhecimentos em HTML e CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto09.1--stg-04/).
+Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/alura-7DaysOfCode/projeto01-optimusTech/).
