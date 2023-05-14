@@ -1,0 +1,26 @@
+.metrics {
+  margin-top: 10rem;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 0 3.2rem;
+}
+
+.metrics-card span {
+  font-size: 6rem;
+  font-weight: 600;
+  color: var(--text-numbers-info);
+}
+
+.metrics-card h3 {
+  margin-top: 1.2rem;
+  font-size: 1.8rem;
+  color: var(--title-subtitle);
+}
+
+.metrics-card p {
+  margin-top: 0.8rem;
+  font-size: 1.6rem;
+  color: var(--text-grey);
+  max-width: 26ch;
+}
